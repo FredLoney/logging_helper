@@ -38,11 +38,10 @@ def log_stack(logger=None, limit=None, start=0):
     130424-12:17:35,722 __main__ DEBUG:
     	 /snippet/test_logging_helper.py, line 7 in function outer.
     
-    @param logger: the logger to use (default use the root logger)
-    @param limit: the number of frames to print (default print all remaining frames)
-    @param start: the offset of the first frame preceding the caller to print (default 0)
+    :param logger: the logger to use (default is the root logger)
+    :param limit: the number of frames to print (default prints all remaining frames)
+    :param start: the offset of the first frame preceding the caller to print (default is 0)
     """   
-    
     # Use the default logger, if necessary.
     if not logger:
         logger = logging.getLogger()
