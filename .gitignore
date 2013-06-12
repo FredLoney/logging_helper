@@ -1,4 +1,12 @@
-*~
-**.egg-info/
-.DS_Store
+# Compiled python
 *.pyc
+
+# Packages
+*.egg
+*.egg-info
+
+# Backups
+*~
+
+# System
+.DS_Store
