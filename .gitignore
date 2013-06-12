@@ -8,5 +8,8 @@
 # Backups
 *~
 
+# Sphinx
+_build
+
 # System
 .DS_Store
