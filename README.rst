@@ -42,5 +42,5 @@ logging_helper is confidential and may not be distributed in any form without au
 
 .. _Knight Cancer Institute: http://www.ohsu.edu/xd/health/services/cancer
 
-.. _API documentation: https://readthedocs.org/projects/freds-logging-helper
+.. _API documentation: https://freds-logging-helper.readthedocs.org/en/latest/
 
