@@ -1,5 +1,5 @@
-qipipe: OHSU QIN Pipeline
-=========================
+logging_helper: Python logging utility functions
+================================================
 
 Contents
 
