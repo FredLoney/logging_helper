@@ -30,11 +30,10 @@ Usage
 *****
 See the `API documentation`_ for usage examples.
 
-*********
-Copyright
-*********
-Copyright (C) 2013, Oregon Health & Science University `Knight Cancer Institute`_.
-logging_helper is confidential and may not be distributed in any form without authorization.
+---
+
+Copyright (C) 2013, Oregon Health & Science University `Knight Cancer Institute`_. All rights reserved.
+
 
 .. Targets:
 
