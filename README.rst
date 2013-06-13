@@ -30,7 +30,7 @@ Usage
 *****
 See the `API documentation`_ for usage examples.
 
----
+---------
 
 Copyright (C) 2013, Oregon Health & Science University `Knight Cancer Institute`_. All rights reserved.
 
